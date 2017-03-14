@@ -1,0 +1,107 @@
+Starting options test
+Total number of options :  32
+
+Training classifier on  :  YCrCb   (32, 32)   64   9   8   2   ALL
+Accuracy : 0.991
+Time this test : 118.986 seconds
+Best so far...
+Training classifier on  :  YCrCb   (32, 32)   64   9   8   2   0
+Accuracy : 0.984
+Time this test : 56.931 seconds
+Training classifier on  :  YCrCb   (32, 32)   32   9   8   2   ALL
+Accuracy : 0.989
+Time this test : 107.071 seconds
+Training classifier on  :  YCrCb   (32, 32)   32   9   8   2   0
+Accuracy : 0.982
+Time this test : 57.445 seconds
+Training classifier on  :  YCrCb   (16, 16)   64   9   8   2   ALL
+Accuracy : 0.991
+Time this test : 111.701 seconds
+Best so far...
+Training classifier on  :  YCrCb   (16, 16)   64   9   8   2   0
+Accuracy : 0.987
+Time this test : 50.266 seconds
+Training classifier on  :  YCrCb   (16, 16)   32   9   8   2   ALL
+Accuracy : 0.988
+Time this test : 106.220 seconds
+Training classifier on  :  YCrCb   (16, 16)   32   9   8   2   0
+Accuracy : 0.985
+Time this test : 50.690 seconds
+Training classifier on  :  RGB   (32, 32)   64   9   8   2   ALL
+Accuracy : 0.984
+Time this test : 129.137 seconds
+Training classifier on  :  RGB   (32, 32)   64   9   8   2   0
+Accuracy : 0.983
+Time this test : 60.029 seconds
+Training classifier on  :  RGB   (32, 32)   32   9   8   2   ALL
+Accuracy : 0.985
+Time this test : 129.542 seconds
+Training classifier on  :  RGB   (32, 32)   32   9   8   2   0
+Accuracy : 0.984
+Time this test : 57.542 seconds
+Training classifier on  :  RGB   (16, 16)   64   9   8   2   ALL
+Accuracy : 0.985
+Time this test : 120.324 seconds
+Training classifier on  :  RGB   (16, 16)   64   9   8   2   0
+Accuracy : 0.983
+Time this test : 47.519 seconds
+Training classifier on  :  RGB   (16, 16)   32   9   8   2   ALL
+Accuracy : 0.987
+Time this test : 119.369 seconds
+Training classifier on  :  RGB   (16, 16)   32   9   8   2   0
+Accuracy : 0.982
+Time this test : 51.948 seconds
+Training classifier on  :  HSV   (32, 32)   64   9   8   2   ALL
+Accuracy : 0.994
+Time this test : 106.177 seconds
+Best so far...
+Training classifier on  :  HSV   (32, 32)   64   9   8   2   0
+Accuracy : 0.972
+Time this test : 60.478 seconds
+Training classifier on  :  HSV   (32, 32)   32   9   8   2   ALL
+Accuracy : 0.992
+Time this test : 118.353 seconds
+Training classifier on  :  HSV   (32, 32)   32   9   8   2   0
+Accuracy : 0.966
+Time this test : 59.480 seconds
+Training classifier on  :  HSV   (16, 16)   64   9   8   2   ALL
+Accuracy : 0.989
+Time this test : 106.668 seconds
+Training classifier on  :  HSV   (16, 16)   64   9   8   2   0
+Accuracy : 0.970
+Time this test : 54.040 seconds
+Training classifier on  :  HSV   (16, 16)   32   9   8   2   ALL
+Accuracy : 0.988
+Time this test : 115.695 seconds
+Training classifier on  :  HSV   (16, 16)   32   9   8   2   0
+Accuracy : 0.969
+Time this test : 50.486 seconds
+Training classifier on  :  HLS   (32, 32)   64   9   8   2   ALL
+Accuracy : 0.991
+Time this test : 99.070 seconds
+Training classifier on  :  HLS   (32, 32)   64   9   8   2   0
+Accuracy : 0.968
+Time this test : 63.032 seconds
+Training classifier on  :  HLS   (32, 32)   32   9   8   2   ALL
+Accuracy : 0.991
+Time this test : 128.870 seconds
+Training classifier on  :  HLS   (32, 32)   32   9   8   2   0
+Accuracy : 0.961
+Time this test : 63.868 seconds
+Training classifier on  :  HLS   (16, 16)   64   9   8   2   ALL
+Accuracy : 0.988
+Time this test : 105.324 seconds
+Training classifier on  :  HLS   (16, 16)   64   9   8   2   0
+Accuracy : 0.966
+Time this test : 48.660 seconds
+Training classifier on  :  HLS   (16, 16)   32   9   8   2   ALL
+Accuracy : 0.992
+Time this test : 111.852 seconds
+Training classifier on  :  HLS   (16, 16)   32   9   8   2   0
+Accuracy : 0.965
+Time this test : 47.088 seconds
+Completed run
+
+Total time (s):  2713.861
+Best accuracy : 0.994
+Best settings :  ['HSV', (32, 32), 64, 9, 8, 2, 'ALL']
